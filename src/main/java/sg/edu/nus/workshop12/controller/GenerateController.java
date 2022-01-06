@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 
-import sg.edu.nus.workshop12.exception.RandomNumberExpection;
 import sg.edu.nus.workshop12.model.Generate; //Import class in same package
 
 @Controller
